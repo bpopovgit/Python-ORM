@@ -14,6 +14,7 @@ def create_unique_brands(apps, schema_editor):
     # for brand_name in unique_brand_names:
     #     unique_brands.create(brand=brand_name)
 
+
 def reverse_unique_brands(apps, schema_editor):
     unique_brands = apps.get_model('main_app', 'UniqueBrands')
     unique_brands.objects.all().delete()
