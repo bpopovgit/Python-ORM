@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/04-exercise.iml" filepath="$PROJECT_DIR$/.idea/04-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/01-orm-exam-prep.iml" filepath="$PROJECT_DIR$/.idea/01-orm-exam-prep.iml" />
     </modules>
   </component>
 </project>
